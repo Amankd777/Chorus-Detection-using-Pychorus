@@ -13,8 +13,8 @@ In this project, we've utilized the PyChorus library to automatically detect the
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/YourUsername/PyChorus-Song-Chorus-Detection.git
-    cd PyChorus-Song-Chorus-Detection
+    git clone https://github.com/Amankd777/Chorus-Detection-using-Pychorus.git
+    cd Chorus-Detection-using-Pychorus
     ```
 
 2. Install the required dependencies:
